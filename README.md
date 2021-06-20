@@ -15,7 +15,7 @@ Full Stack Engineer experienced with Ruby and Javascript. Worked with Ruby on Ra
 
 ## Links to Social Media
 
-[![LinkedIn Badge](https://www.linkedin.com/in/ryan-erricson-992890113/)
+[![LinkedIn Badge]](https://www.linkedin.com/in/ryan-erricson-992890113/)
 
 
 
