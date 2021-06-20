@@ -23,3 +23,5 @@ Full Stack Engineer experienced with Ruby and Javascript. Worked with Ruby on Ra
 ## Technical Skills
 
 <i class="devicon-javascript-plain"></i>
+
+[image](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
