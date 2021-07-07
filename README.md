@@ -1,19 +1,21 @@
-# Hi I'm Ryan! 
+# Hi I'm Ryan!
 
-Full Stack Engineer experienced with Ruby and Javascript, primary development frameworks I work with are Ruby on Rails, React.js, and Redux.js. Previous career experience in supply chain logistics has molded me into an effective communicator with a team and also furthered my passion to dissect and solve complex problems. Never fear the unknown!
+Open To Work
+
+Full Stack Engineer experienced with Ruby and Javascript, primary development frameworks I work with are Ruby on Rails, React.js, and Redux.js. Previous career experience in supply chain logistics has molded me into an effective communicator with a team and also furthered my passion to dissect and solve complex problems. Open to positions remote or in the Greater Boston area, ready and willing to learn whatever the job requires! Feel free to reach out to me via email or LinkedIn to discuss potential future collaborations, future work, or anything code related! Never fear the unknown!
 
 ## Projects
 
-🍺 🐕 BrewDog [Front End Repo](https://github.com/rickySONZ/BrewDog_frontend) | [Video Demo](https://www.loom.com/share/2040592c7ae4404eb93f84d661c22f42)
+🍺 🐕 BrewDog [Hosted Here](https://brewdog-frontend.netlify.app/) | [Front End Repo](https://github.com/rickySONZ/BrewDog_frontend) | [Video Demo](https://www.loom.com/share/2040592c7ae4404eb93f84d661c22f42)
 - BrewDog is a React application, using Redux for state management and Thunk middleware, that allows users to find a brewery anyhwere in the United States! Just put in your city and state and from there let BrewDog take you to the best breweries around!
 
-🎧   Spotifake [Front End Repo](https://github.com/rickySONZ/spotifake_frontend) | [Video Demo](https://www.loom.com/share/4d396ef737a14dbd8f8c9ad99e47336c)
+🎧   Spotifake [Hosted Here](https://spotifakeapp.netlify.app/) | [Front End Repo](https://github.com/rickySONZ/spotifake_frontend) | [Video Demo](https://www.loom.com/share/4d396ef737a14dbd8f8c9ad99e47336c)
 - Reimagined version of Spotify library utilizing RPotify gem to pull Spotify API data. Allows users to search songs, add them/delete them to library, and play them through external link.
 
-:octocat:  💼 GitJobs [Github Repo](https://github.com/rickySONZ/GitJobs) | [Video Demo](https://www.loom.com/share/95f9db7e28094befb323198e2019217f)
+:octocat:  💼 GitJobs [Hosted Here](https://gitjobs2.herokuapp.com/) | [Github Repo](https://github.com/rickySONZ/GitJobs) | [Video Demo](https://www.loom.com/share/95f9db7e28094befb323198e2019217f)
 - Job posting site for software engineers generated from Ruby on Rails! Site pulls from actual postings on GitHub Jobs API, allowing users to find the job of their dreams!
 
-:soccer:  EPL Matchday Bettor [Github Repo](https://github.com/rickySONZ/sinatra-epl-matchday-bettor) | [Video Demo](loom.com/share/8290ee332e2b46f481c1d011f551aa95)
+:soccer:  EPL Matchday Bettor [Hosted Here](https://sinatra-epl-matchday-bettor.herokuapp.com/) | [Github Repo](https://github.com/rickySONZ/sinatra-epl-matchday-bettor) | [Video Demo](loom.com/share/8290ee332e2b46f481c1d011f551aa95)
 - Calling all Premier League Fans!!!! The Matchday Bettor allows users to give predictions for upcoming games in the EPL. Follow your friends and see who predicted the most scores correctly! App works off of a Sinatra framework and uses BCrypt for User Auth. COYG!!!!
 
 ## Links to Social Media
