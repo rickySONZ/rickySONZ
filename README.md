@@ -4,6 +4,8 @@ Open To Work
 
 Full Stack Engineer experienced with Ruby and Javascript, primary development frameworks I work with are Ruby on Rails, React.js, and Redux.js. Previous career experience in supply chain logistics has molded me into an effective communicator with a team and also furthered my passion to dissect and solve complex problems. Open to positions remote or in the Greater Boston area, ready and willing to learn whatever the job requires! Feel free to reach out to me via email or LinkedIn to discuss potential future collaborations, future work, or anything code related! Never fear the unknown!
 
+[Check Out My Site!](https://rickysonz.github.io/)
+
 ## Projects
 
 🍺 🐕 BrewDog [Hosted Here](https://brewdog-frontend.netlify.app/) | [Front End Repo](https://github.com/rickySONZ/BrewDog_frontend) | [Video Demo](https://www.loom.com/share/2040592c7ae4404eb93f84d661c22f42)
