@@ -6,6 +6,8 @@ Full Stack Engineer experienced with Ruby and Javascript, primary development fr
 
 [Check Out My Site!](https://rickysonz.github.io/)
 
+[Get to Know Me a Little Better by Clicking Here!](https://www.loom.com/share/3c5a74b466f74ba885e6b2c3f6c6e112)
+
 ## Projects
 
 🍺 🐕 BrewDog [Hosted Here](https://brewdog-frontend.netlify.app/) | [Front End Repo](https://github.com/rickySONZ/BrewDog_frontend) | [Video Demo](https://www.loom.com/share/2040592c7ae4404eb93f84d661c22f42)
