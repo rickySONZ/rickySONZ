@@ -1,4 +1,4 @@
-# Hi I'm Ryan!
+# Hi, I'm Ryan!
 
 Open To Work
 
