@@ -11,7 +11,7 @@ Full Stack Engineer experienced with Ruby and Javascript, primary development fr
 ## Projects
 
 ϞϞ(๑⚈ ․̫ ⚈๑)∩ Pokemon Battle Royale [Front End Repo](https://github.com/Bryanjazo/Pokemon-FrontEnd) | [Video Demo](https://www.loom.com/share/ae32b2c14e004e6cb2c520a508f7362b)
--Pokemon Battle Royal allows users to create an account and battle AI Pokemon to earn tokens. These tokens allow the user to buy more Pokemon to hopefully...catch them all!!!! Group project built with React, Redux, and Ruby on Rails for the back end.
+- Pokemon Battle Royal allows users to create an account and battle AI Pokemon to earn tokens. These tokens allow the user to buy more Pokemon to hopefully...catch them all!!!! Group project built with React, Redux, and Ruby on Rails for the back end.
 
 🍺 🐕 BrewDog [Hosted Here](https://brewdog-frontend.netlify.app/) | [Front End Repo](https://github.com/rickySONZ/BrewDog_frontend) | [Video Demo](https://www.loom.com/share/2040592c7ae4404eb93f84d661c22f42)
 - BrewDog is a React application, using Redux for state management and Thunk middleware, that allows users to find a brewery anyhwere in the United States! Just put in your city and state and from there let BrewDog take you to the best breweries around!
