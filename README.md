@@ -4,7 +4,7 @@ Open To Work
 
 Full Stack Engineer experienced with Ruby and Javascript, primary development frameworks I work with are Ruby on Rails, React.js, and Redux.js. Previous career experience in supply chain logistics has molded me into an effective communicator with a team and also furthered my passion to dissect and solve complex problems. Open to positions remote or in the Greater Boston area, ready and willing to learn whatever the job requires! Feel free to reach out to me via email or LinkedIn to discuss potential future collaborations, future work, or anything code related! Never fear the unknown!
 
-Currently learning NodeJS and Express!
+Currently learning NodeJS and Express! [Check Out the Repo I am working in here!](https://github.com/rickySONZ/devcamper_api)
 
 [Check Out My Site!](https://rickysonz.github.io/)
 
