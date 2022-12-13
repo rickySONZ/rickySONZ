@@ -8,8 +8,6 @@ Full Stack Engineer experienced with Ruby and Javascript, primary development fr
 
 [Check Out My Site!](https://rickysonz.github.io/)
 
-[Get to Know Me a Little Better by Clicking Here!](https://www.loom.com/share/3c5a74b466f74ba885e6b2c3f6c6e112)
-
 ## Projects
 
 ϞϞ(๑⚈ ․̫ ⚈๑) Pokemon Battle Royale [Front End Repo](https://github.com/Bryanjazo/Pokemon-FrontEnd) | [Video Demo](https://www.loom.com/share/ae32b2c14e004e6cb2c520a508f7362b)
