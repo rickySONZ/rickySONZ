@@ -2,7 +2,7 @@
 
 Full Stack Developer at Aloompa
 
-Full Stack Engineer experienced with Ruby and Javascript, primary development frameworks I work with are Ruby on Rails, React.js, Express JS, and Redux.js. Previous career experience in supply chain logistics has molded me into an effective communicator with a team and also furthered my passion to dissect and solve complex problems. Open to positions remote or in the Greater Boston area, ready and willing to learn whatever the job requires! Feel free to reach out to me via email or LinkedIn to discuss potential future collaborations, future work, or anything code related! Never fear the unknown!
+Full Stack Engineer experienced with Ruby and Javascript, primary development frameworks I work with are Ruby on Rails, React.js, Node.js, adn Next.js. Previous career experience in supply chain logistics has molded me into an effective communicator with a team and also furthered my passion to dissect and solve complex problems. Open to positions remote or in the Greater Boston area, ready and willing to learn whatever the job requires! Feel free to reach out to me via email or LinkedIn to discuss potential future collaborations, future work, or anything code related! Never fear the unknown!
 
 
 
